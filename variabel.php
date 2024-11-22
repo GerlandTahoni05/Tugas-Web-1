@@ -1,7 +1,7 @@
 <?php
-$namaD = "Novi";
-$namaB = "Salsya";
-$nim = "312310326";
+$namaD = "Gerland";
+$namaB = "Tahoni";
+$nim = "312310712";
 $prodi = "Teknik";
 $jurusan = "Teknik Informatika";
 $kelas = "TI23 CA1";
